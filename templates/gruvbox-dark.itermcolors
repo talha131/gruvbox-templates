@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Background Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(dark0#red)</real>
+            <key>Green Component</key>
+            <real>$(dark0#green)</real>
+            <key>Blue Component</key>
+			<real>$(dark0#blue)</real>
+        </dict>
+        <key>Foreground Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(light1#red)</real>
+            <key>Green Component</key>
+            <real>$(light1#green)</real>
+            <key>Blue Component</key>
+            <real>$(light1#blue)</real>
+        </dict>
+        <key>Ansi 0 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(dark0#red)</real>
+            <key>Green Component</key>
+            <real>$(dark0#green)</real>
+            <key>Blue Component</key>
+            <real>$(dark0#blue)</real>
+        </dict>
+        <key>Ansi 8 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(medium#red)</real>
+            <key>Green Component</key>
+            <real>$(medium#green)</real>
+            <key>Blue Component</key>
+            <real>$(medium#blue)</real>
+        </dict>
+        <key>Ansi 1 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(neutral_red#red)</real>
+            <key>Green Component</key>
+            <real>$(neutral_red#green)</real>
+            <key>Blue Component</key>
+            <real>$(neutral_red#blue)</real>
+        </dict>
+        <key>Ansi 9 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(bright_red#red)</real>
+            <key>Green Component</key>
+            <real>$(bright_red#green)</real>
+            <key>Blue Component</key>
+            <real>$(bright_red#blue)</real>
+        </dict>
+        <key>Ansi 2 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(neutral_green#red)</real>
+            <key>Green Component</key>
+            <real>$(neutral_green#green)</real>
+            <key>Blue Component</key>
+            <real>$(neutral_green#blue)</real>
+        </dict>
+        <key>Ansi 10 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(bright_green#red)</real>
+            <key>Green Component</key>
+            <real>$(bright_green#green)</real>
+            <key>Blue Component</key>
+            <real>$(bright_green#blue)</real>
+        </dict>
+        <key>Ansi 3 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(neutral_yellow#red)</real>
+            <key>Green Component</key>
+            <real>$(neutral_yellow#green)</real>
+            <key>Blue Component</key>
+            <real>$(neutral_yellow#blue)</real>
+        </dict>
+        <key>Ansi 11 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(bright_yellow#red)</real>
+            <key>Green Component</key>
+            <real>$(bright_yellow#green)</real>
+            <key>Blue Component</key>
+            <real>$(bright_yellow#blue)</real>
+        </dict>
+        <key>Ansi 4 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(neutral_blue#red)</real>
+            <key>Green Component</key>
+            <real>$(neutral_blue#green)</real>
+            <key>Blue Component</key>
+            <real>$(neutral_blue#blue)</real>
+        </dict>
+        <key>Ansi 12 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(bright_blue#red)</real>
+            <key>Green Component</key>
+            <real>$(bright_blue#green)</real>
+            <key>Blue Component</key>
+            <real>$(bright_blue#blue)</real>
+        </dict>
+        <key>Ansi 5 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(neutral_purple#red)</real>
+            <key>Green Component</key>
+            <real>$(neutral_purple#green)</real>
+            <key>Blue Component</key>
+            <real>$(neutral_purple#blue)</real>
+        </dict>
+        <key>Ansi 13 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(bright_purple#red)</real>
+            <key>Green Component</key>
+            <real>$(bright_purple#green)</real>
+            <key>Blue Component</key>
+            <real>$(bright_purple#blue)</real>
+        </dict>
+        <key>Ansi 6 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(neutral_aqua#red)</real>
+            <key>Green Component</key>
+            <real>$(neutral_aqua#green)</real>
+            <key>Blue Component</key>
+            <real>$(neutral_aqua#blue)</real>
+        </dict>
+        <key>Ansi 14 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(bright_aqua#red)</real>
+            <key>Green Component</key>
+            <real>$(bright_aqua#green)</real>
+            <key>Blue Component</key>
+            <real>$(bright_aqua#blue)</real>
+        </dict>
+        <key>Ansi 7 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(light1#red)</real>
+            <key>Green Component</key>
+            <real>$(light1#green)</real>
+            <key>Blue Component</key>
+            <real>$(light1#blue)</real>
+        </dict>
+        <key>Ansi 15 Color</key>
+        <dict>
+            <key>Red Component</key>
+            <real>$(light0#red)</real>
+            <key>Green Component</key>
+            <real>$(light0#green)</real>
+            <key>Blue Component</key>
+            <real>$(light0#blue)</real>
+        </dict>
+    </dict>
+</plist>
