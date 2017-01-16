@@ -32,11 +32,11 @@
         <key>Ansi 8 Color</key>
         <dict>
             <key>Red Component</key>
-            <real>0.4980392156862745</real>
+            <real>$(medium#red)</real>
             <key>Green Component</key>
-            <real>0.4392156862745098</real>
+            <real>$(medium#green)</real>
             <key>Blue Component</key>
-            <real>0.3803921568627451</real>
+            <real>$(medium#blue)</real>
         </dict>
         <key>Ansi 1 Color</key>
         <dict>
@@ -158,11 +158,11 @@
         <key>Ansi 15 Color</key>
         <dict>
             <key>Red Component</key>
-            <real>0.984313725490196</real>
+            <real>0.9803921568627451</real>
             <key>Green Component</key>
-            <real>0.9450980392156862</real>
+            <real>0.9333333333333333</real>
             <key>Blue Component</key>
-            <real>0.7803921568627451</real>
+            <real>0.7333333333333333</real>
         </dict>
     </dict>
 </plist>
