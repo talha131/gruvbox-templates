@@ -5,23 +5,23 @@
         <key>DVTConsoleDebuggerInputTextColor</key>
         <string>$(light1) 1</string>
         <key>DVTConsoleDebuggerInputTextFont</key>
-        <string>InconsolataLGC - 12.0</string>
+        <string>Inconsolata - 12.0</string>
         <key>DVTConsoleDebuggerOutputTextColor</key>
         <string>$(light1) 1</string>
         <key>DVTConsoleDebuggerOutputTextFont</key>
-        <string>InconsolataLGC - 12.0</string>
+        <string>Inconsolata - 12.0</string>
         <key>DVTConsoleDebuggerPromptTextColor</key>
         <string>$(bright_blue) 1</string>
         <key>DVTConsoleDebuggerPromptTextFont</key>
-        <string>InconsolataLGC-Bold - 12.0</string>
+        <string>Inconsolata-Bold - 12.0</string>
         <key>DVTConsoleExectuableInputTextColor</key>
         <string>$(light1) 1</string>
         <key>DVTConsoleExectuableInputTextFont</key>
-        <string>InconsolataLGC - 12.0</string>
+        <string>Inconsolata - 12.0</string>
         <key>DVTConsoleExectuableOutputTextColor</key>
         <string>$(light1) 1</string>
         <key>DVTConsoleExectuableOutputTextFont</key>
-        <string>InconsolataLGC - 12.0</string>
+        <string>Inconsolata - 12.0</string>
         <key>DVTConsoleTextBackgroundColor</key>
         <string>$(dark0) 1</string>
         <key>DVTConsoleTextInsertionPointColor</key>
@@ -92,51 +92,51 @@
         <key>DVTSourceTextSyntaxFonts</key>
         <dict>
             <key>xcode.syntax.attribute</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.character</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.comment</key>
-            <string>InconsolataLGC-Italic - 12.0</string>
+            <string>Inconsolata-Italic - 12.0</string>
             <key>xcode.syntax.comment.doc</key>
-            <string>InconsolataLGC-Italic - 12.0</string>
+            <string>Inconsolata-Italic - 12.0</string>
             <key>xcode.syntax.comment.doc.keyword</key>
-            <string>InconsolataLGC-Italic - 12.0</string>
+            <string>Inconsolata-Italic - 12.0</string>
             <key>xcode.syntax.identifier.class</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.class.system</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.constant</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.constant.system</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.function</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.function.system</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.macro</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.macro.system</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.type</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.type.system</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.variable</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.identifier.variable.system</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.keyword</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.number</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.plain</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.preprocessor</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.string</key>
-            <string>InconsolataLGC - 12.0</string>
+            <string>Inconsolata - 12.0</string>
             <key>xcode.syntax.url</key>
-            <string>InconsolataLGC-Italic - 12.0</string>
+            <string>Inconsolata-Italic - 12.0</string>
         </dict>
     </dict>
 </plist>
