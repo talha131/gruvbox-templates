@@ -47,9 +47,9 @@
             <key>xcode.syntax.character</key>
             <string>$(faded_purple) 1</string>
             <key>xcode.syntax.comment</key>
-            <string>$(medium) 1</string>
+            <string>$(gray_244) 1</string>
             <key>xcode.syntax.comment.doc</key>
-            <string>$(medium) 1</string>
+            <string>$(gray_244) 1</string>
             <key>xcode.syntax.comment.doc.keyword</key>
             <string>$(faded_aqua) 1</string>
             <key>xcode.syntax.identifier.class</key>
