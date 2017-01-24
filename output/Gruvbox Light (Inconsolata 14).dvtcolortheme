@@ -13,7 +13,7 @@
         <key>DVTConsoleDebuggerPromptTextColor</key>
         <string>0.054901960784313725 0.3254901960784314 0.396078431372549 1</string>
         <key>DVTConsoleDebuggerPromptTextFont</key>
-        <string>Inconsolata-Bold - 14.0</string>
+        <string>Inconsolata - 14.0</string>
         <key>DVTConsoleExectuableInputTextColor</key>
         <string>0.1803921568627451 0.16470588235294117 0.1607843137254902 1</string>
         <key>DVTConsoleExectuableInputTextFont</key>
