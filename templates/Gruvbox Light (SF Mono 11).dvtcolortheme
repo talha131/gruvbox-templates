@@ -53,9 +53,9 @@
             <key>xcode.syntax.comment.doc.keyword</key>
             <string>$(faded_aqua) 1</string>
             <key>xcode.syntax.identifier.class</key>
-            <string>$(faded_orange)</string>
+            <string>$(faded_yellow)</string>
             <key>xcode.syntax.identifier.class.system</key>
-            <string>$(faded_orange) 1</string>
+            <string>$(faded_yellow) 1</string>
             <key>xcode.syntax.identifier.constant</key>
             <string>$(faded_purple) 1</string>
             <key>xcode.syntax.identifier.constant.system</key>

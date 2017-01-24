@@ -53,9 +53,9 @@
             <key>xcode.syntax.comment.doc.keyword</key>
             <string>$(bright_aqua) 1</string>
             <key>xcode.syntax.identifier.class</key>
-            <string>$(bright_orange)</string>
+            <string>$(bright_yellow)</string>
             <key>xcode.syntax.identifier.class.system</key>
-            <string>$(bright_orange) 1</string>
+            <string>$(bright_yellow) 1</string>
             <key>xcode.syntax.identifier.constant</key>
             <string>$(bright_purple) 1</string>
             <key>xcode.syntax.identifier.constant.system</key>
