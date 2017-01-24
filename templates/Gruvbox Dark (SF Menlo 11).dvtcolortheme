@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>DVTConsoleDebuggerInputTextColor</key>
+        <string>$(light1) 1</string>
+        <key>DVTConsoleDebuggerInputTextFont</key>
+        <string>SF Mono-Regular - 11.0</string>
+        <key>DVTConsoleDebuggerOutputTextColor</key>
+        <string>$(light1) 1</string>
+        <key>DVTConsoleDebuggerOutputTextFont</key>
+        <string>SF Mono-Regular - 11.0</string>
+        <key>DVTConsoleDebuggerPromptTextColor</key>
+        <string>$(bright_blue) 1</string>
+        <key>DVTConsoleDebuggerPromptTextFont</key>
+        <string>SF Mono-Regular - 11.0</string>
+        <key>DVTConsoleExectuableInputTextColor</key>
+        <string>$(light1) 1</string>
+        <key>DVTConsoleExectuableInputTextFont</key>
+        <string>SF Mono-Regular - 11.0</string>
+        <key>DVTConsoleExectuableOutputTextColor</key>
+        <string>$(light1) 1</string>
+        <key>DVTConsoleExectuableOutputTextFont</key>
+        <string>SF Mono-Regular - 11.0</string>
+        <key>DVTConsoleTextBackgroundColor</key>
+        <string>$(dark0) 1</string>
+        <key>DVTConsoleTextInsertionPointColor</key>
+        <string>$(light1) 1</string>
+        <key>DVTConsoleTextSelectionColor</key>
+        <string>$(dark2) 1</string>
+        <key>DVTDebuggerInstructionPointerColor</key>
+        <string>$(bright_green) 1</string>
+        <key>DVTSourceTextBackground</key>
+        <string>$(dark0) 1</string>
+        <key>DVTSourceTextBlockDimBackgroundColor</key>
+        <string>0.5 0.5 0.5 1</string>
+        <key>DVTSourceTextInsertionPointColor</key>
+        <string>$(light1) 1</string>
+        <key>DVTSourceTextInvisiblesColor</key>
+        <string>$(light4) 1</string>
+        <key>DVTSourceTextSelectionColor</key>
+        <string>$(dark2) 1</string>
+        <key>DVTSourceTextSyntaxColors</key>
+        <dict>
+            <key>xcode.syntax.attribute</key>
+            <string>$(bright_purple) 1</string>
+            <key>xcode.syntax.character</key>
+            <string>$(bright_purple) 1</string>
+            <key>xcode.syntax.comment</key>
+            <string>$(gray_245) 1</string>
+            <key>xcode.syntax.comment.doc</key>
+            <string>$(gray_245) 1</string>
+            <key>xcode.syntax.comment.doc.keyword</key>
+            <string>$(bright_aqua) 1</string>
+            <key>xcode.syntax.identifier.class</key>
+            <string>$(bright_orange)</string>
+            <key>xcode.syntax.identifier.class.system</key>
+            <string>$(bright_orange) 1</string>
+            <key>xcode.syntax.identifier.constant</key>
+            <string>$(bright_purple) 1</string>
+            <key>xcode.syntax.identifier.constant.system</key>
+            <string>$(bright_purple) 1</string>
+            <key>xcode.syntax.identifier.function</key>
+            <string>$(bright_blue) 1</string>
+            <key>xcode.syntax.identifier.function.system</key>
+            <string>$(bright_blue) 1</string>
+            <key>xcode.syntax.identifier.macro</key>
+            <string>$(bright_aqua) 1</string>
+            <key>xcode.syntax.identifier.macro.system</key>
+            <string>$(bright_aqua) 1</string>
+            <key>xcode.syntax.identifier.type</key>
+            <string>$(bright_orange) 1</string>
+            <key>xcode.syntax.identifier.type.system</key>
+            <string>$(bright_orange) 1</string>
+            <key>xcode.syntax.identifier.variable</key>
+            <string>$(light1) 1</string>
+            <key>xcode.syntax.identifier.variable.system</key>
+            <string>$(light1) 1</string>
+            <key>xcode.syntax.keyword</key>
+            <string>$(bright_red) 1</string>
+            <key>xcode.syntax.number</key>
+            <string>$(bright_purple) 1</string>
+            <key>xcode.syntax.plain</key>
+            <string>$(light1) 1</string>
+            <key>xcode.syntax.preprocessor</key>
+            <string>$(bright_aqua) 1</string>
+            <key>xcode.syntax.string</key>
+            <string>$(bright_green) 1</string>
+            <key>xcode.syntax.url</key>
+            <string>$(bright_blue) 1</string>
+        </dict>
+        <key>DVTSourceTextSyntaxFonts</key>
+        <dict>
+            <key>xcode.syntax.attribute</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.character</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.comment</key>
+            <string>SF Mono-Regular-Italic - 11.0</string>
+            <key>xcode.syntax.comment.doc</key>
+            <string>SF Mono-Regular-Italic - 11.0</string>
+            <key>xcode.syntax.comment.doc.keyword</key>
+            <string>SF Mono-Regular-Italic - 11.0</string>
+            <key>xcode.syntax.identifier.class</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.class.system</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.constant</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.constant.system</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.function</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.function.system</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.macro</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.macro.system</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.type</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.type.system</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.variable</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.identifier.variable.system</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.keyword</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.number</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.plain</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.preprocessor</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.string</key>
+            <string>SF Mono-Regular - 11.0</string>
+            <key>xcode.syntax.url</key>
+            <string>SF Mono-Regular-Italic - 11.0</string>
+        </dict>
+    </dict>
+</plist>
+
