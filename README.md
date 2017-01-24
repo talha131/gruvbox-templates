@@ -11,9 +11,11 @@ Currently includes:
 * Xcode
 * iTerm
 
-# Changes in Fork
+# What's New in This Frok
 
-This fork uses [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) font at 14.0 size.
+For Xcode, it adds light themes, besides dark.
+
+This fork adds Xcode theme with [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) font at 14.0 size.
 
 You can install this font using `brew cask`. First make sure you have [`brew`](http://brew.sh/) and [`Cask`](https://caskroom.github.io/) installed. Then follow these steps,
 
