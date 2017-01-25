@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Gruvbox - Light">
+  <style name="Text" foreground="#(dark1)" background="#(light0)"/>
+  <style name="Link" foreground="#(dark4)"/>
+  <style name="Selection" foreground="#(light3)" background="#(dark1)"/>
+  <style name="LineNumber" foreground="#(light4)"/>
+  <style name="SearchResult" foreground="#(light0)" background="#(faded_yellow)"/>
+  <style name="SearchScope" foreground="#(dark1)"/>
+  <style name="Parentheses" foreground="#(dark1)" background="#(light3)" bold="true"/>
+  <style name="CurrentLine" foreground="#(dark1)" background="#(light1)"/>
+  <style name="CurrentLineNumber" foreground="#(faded_yellow)" background="#(light1)"/>
+  <style name="Occurrences" foreground="#(dark1)" background="#(light3)" bold="true"/>
+  <style name="Occurrences.Unused" foreground="#(dark1)"/>
+  <style name="Occurrences.Rename" foreground="#(dark1)"/>
+  <style name="Number" foreground="#(faded_purple)"/>
+  <style name="String" foreground="#(faded_green)"/>
+  <style name="Type" foreground="#(faded_yellow)"/>
+  <style name="Local" foreground="#(dark1)"/>
+  <style name="Field" foreground="#(faded_blue)"/>
+  <style name="Static" foreground="#(faded_purple)"/>
+  <style name="VirtualMethod" foreground="#(faded_green)" bold="true" italic="true"/>
+  <style name="Function" foreground="#(faded_green)" bold="true"/>
+  <style name="Keyword" foreground="#(faded_red)"/>
+  <style name="Operator" foreground="#(dark1)"/>
+  <style name="Preprocessor" foreground="#(faded_aqua)"/>
+  <style name="Label" foreground="#(faded_red)"/>
+  <style name="Comment" foreground="#(gray_245)" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#(faded_orange)"/>
+  <style name="Doxygen.Tag" foreground="#(dark1)" bold="true"/>
+  <style name="VisualWhitespace" foreground="#(light1)"/>
+  <style name="QmlLocalId" foreground="#(faded_green)" bold="true" italic="true"/>
+  <style name="QmlExternalId" foreground="#(faded_purple)" italic="true"/>
+  <style name="QmlTypeId" foreground="#(faded_yellow)"/>
+  <style name="QmlRootObjectProperty" foreground="#(faded_green)" bold="true" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#(faded_green)" bold="true" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#(faded_purple)" italic="true"/>
+  <style name="JsScopeVar" foreground="#(dark1)" italic="true"/>
+  <style name="JsImportVar" foreground="#(dark1)" italic="true"/>
+  <style name="JsGlobalVar" foreground="#(dark1)" italic="true"/>
+  <style name="QmlStateName" foreground="#(faded_green)" bold="true"/>
+  <style name="Binding" foreground="#(faded_red)"/>
+  <style name="DisabledCode" foreground="#(light4)"/>
+  <style name="AddedLine" foreground="#(light0)" background="#(faded_green)"/>
+  <style name="RemovedLine" foreground="#(light0)" background="#(faded_red)"/>
+  <style name="DiffFile" foreground="#(light0)" background="#(faded_yellow)"/>
+  <style name="DiffLocation" foreground="#(light0)" background="#(faded_yellow)"/>
+  <style name="DiffFileLine" foreground="#(gray_245)" background="#(light1)" italic="true"/>
+  <style name="DiffContextLine" foreground="#(gray_245)" background="#(light1)" italic="true"/>
+  <style name="DiffSourceLine" foreground="#(light0)" background="#(faded_aqua)"/>
+  <style name="DiffSourceChar" foreground="#(light0)" background="#(faded_red)"/>
+  <style name="DiffDestLine" foreground="#(light0)" background="#(faded_aqua)"/>
+  <style name="DiffDestChar" foreground="#(light0)" background="#(faded_green)"/>
+</style-scheme>
+
