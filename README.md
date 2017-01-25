@@ -11,6 +11,8 @@ Currently includes:
 
 This repository is a based on [jameshurst/gruvbox-templates](https://github.com/jameshurst/gruvbox-templates/).
 
+It also borrows help from [konchunas/gruvbox-qtcreator](https://github.com/konchunas/gruvbox-qtcreator), for Qt Creator theme.
+
 ## What's New in This Fork
 
 1. New: Gruvbox Light for Qt Creator 
